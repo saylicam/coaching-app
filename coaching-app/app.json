@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "coaching-tmp",
-    "slug": "coaching-tmp",
+    "name": "Coaching App",
+    "slug": "coaching-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
