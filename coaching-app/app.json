@@ -1,5 +1,6 @@
 {
   "expo": {
+    "entryPoint": "./index.js",
     "name": "coaching-tmp",
     "slug": "coaching-tmp",
     "version": "1.0.0",
